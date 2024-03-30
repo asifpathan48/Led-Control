@@ -35,7 +35,7 @@ The LED Dot Matrix Message Display project enables users to create visually capt
 4. Enjoy the visually captivating messages, animations, and graphics on the LED dot matrix display.
 
 ## Contributors
-- [Your Name](https://github.comasifpathan48)
+- [Asif Pathan](https://github.com/asifpathan48)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
